@@ -1,0 +1,25 @@
+{
+    "sections": [
+        {
+            "displayname": "Staff Info",
+            "fields": [
+                "Title",
+                "Staff Email",
+                "Position Category"
+            ]
+        },
+        {
+            "displayname": "Licenses",
+            "fields": [
+                "BLS",
+                "LPN",
+                "ACLS",
+                "RN"
+            ]
+        },
+        {
+            "displayname": "",
+            "fields": []
+        }
+    ]
+}
